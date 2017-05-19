@@ -6,6 +6,8 @@ The new webstie of CH with WordPress backend, containing all subsystems, like ev
 |Part|Todo|Status|
 |----|----|------|
 |Website|Seperate agenda points|Not started|
+|Website|User Portal (first version)|Finished|
+|Website|CH Connect|Finished|
 |CHoice|Backend Live|Not started|
 |Events|Webhook 1/3|Not started|
 |TV|Design 1/2|Not started|
@@ -15,6 +17,7 @@ The new webstie of CH with WordPress backend, containing all subsystems, like ev
 |Part|Todo|Status|
 |----|----|------|
 |Website|Transfer information tool 1/2|Not started|
+|Website|User Portal (extended version)|Not started|
 |CHoice|Connection frontend-backend|Not started|
 |Events|Webhook 2/3|Not started|
 |Events|Website Hook Listener 1/2|Not started|
